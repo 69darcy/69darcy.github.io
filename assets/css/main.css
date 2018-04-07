@@ -1897,6 +1897,19 @@
 		border-color: rgba(0, 0, 0, 0.2);
 	}
 
+/* Header */
+
+    #header {
+		color: inherit;
+		cursor: default;
+		font-size: 0.6em;
+		left: 0;
+		padding: 1em 1.5em;
+		position: absolute;
+		width: 100%;
+		z-index: 10000;
+	}
+
 /* Button */
 
 	input[type="submit"],
